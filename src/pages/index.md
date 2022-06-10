@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great minds with a conscience
+title: Butts
 image: /img/home-jumbotron.jpg
 heading: Great minds with a conscience
 subheading:  Mankind -- that word should have new meaning for all of us today.
