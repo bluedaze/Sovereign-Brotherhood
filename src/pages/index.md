@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Butts
+title: Great minds with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great minds with a conscience
+heading: The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants.
 subheading:  Mankind -- that word should have new meaning for all of us today.
 mainpitch:
   title:  We can't be consumed by our petty differences anymore.
