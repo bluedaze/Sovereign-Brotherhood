@@ -3,22 +3,13 @@ templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading:  Mankind -- that word should have new meaning for all of us today.
 mainpitch:
-title:  Mankind -- that word should have new meaning for all of us today. 
+  title:  We can't be consumed by our petty differences anymore.
   description: >
-  We can't be consumed by our petty differences anymore.
-  We will be united in our common interests.
-  Perhaps its fate that today is the 4th of July, and you will once again be fighting for our freedom, not from tyranny, oppression, or persecution -- but from annihilation.
-  We're fighting for our right to live, to exist.
-
+     We will be united in our common interests.
 description: >-
-
-"We will not go quietly into the night!
- We will not vanish without a fight!
- We're going to live on!
- We're going to survive!" 
-
+   We're fighting for our right to live, to exist.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -71,3 +62,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
