@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great with a conscience
+title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading:  Mankind -- that word should have new meaning for all of us today.
@@ -12,7 +12,7 @@ description: >-
    We're fighting for our right to live, to exist.
 intro:
   blurbs:
-    - image: /img/chenguoyuo.jpg
+    - image: /img/coffee.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
