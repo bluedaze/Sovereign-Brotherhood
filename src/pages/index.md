@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great minds with a conscience
+title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great minds with a conscience
+heading: Great coffee with a conscience
 subheading:  Mankind -- that word should have new meaning for all of us today.
 mainpitch:
   title:  We can't be consumed by our petty differences anymore.
