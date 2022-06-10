@@ -5,17 +5,20 @@ image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+title:  Mankind -- that word should have new meaning for all of us today. 
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  We can't be consumed by our petty differences anymore.
+  We will be united in our common interests.
+  Perhaps its fate that today is the 4th of July, and you will once again be fighting for our freedom, not from tyranny, oppression, or persecution -- but from annihilation.
+  We're fighting for our right to live, to exist.
+
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+
+"We will not go quietly into the night!
+ We will not vanish without a fight!
+ We're going to live on!
+ We're going to survive!" 
+
 intro:
   blurbs:
     - image: /img/coffee.png
