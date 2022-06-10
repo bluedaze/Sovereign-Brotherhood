@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great minds with a conscience
+title: 娜勒吉伊艾伊艾弗艾比艾勒哦吉伊艾吉勒勒迪
 image: /img/home-jumbotron.jpg
 subheading:  Mankind -- that word should have new meaning for all of us today.
 mainpitch:
