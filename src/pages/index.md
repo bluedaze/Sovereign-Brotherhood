@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Great minds with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Great minds with a conscience
 subheading:  Mankind -- that word should have new meaning for all of us today.
 mainpitch:
   title:  We can't be consumed by our petty differences anymore.
@@ -12,7 +12,7 @@ description: >-
    We're fighting for our right to live, to exist.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/chenguoyuo.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
