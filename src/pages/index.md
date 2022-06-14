@@ -14,7 +14,7 @@ intro:
     - image: /img/chenguoyuo.jpg
       text: >
         East Asian dignitary meets with South American leadership to discuss Indo-Pacific trade agreements.
-    - image: /img/coffee-gear.png
+    - image: /img/marioab.png
       text: >
         Placeholder
     - image: /img/tutorials.png
