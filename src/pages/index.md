@@ -14,7 +14,7 @@ intro:
     - image: /img/chenguoyuo.jpg
       text: >
         East Asian dignitary meets with South American leadership to discuss Indo-Pacific trade agreements.
-    - image: /img/marioab.png
+    - image: /img/marioab.jpg
       text: >
         CEO for drug company suspected of illegal trading
     - image: /img/tutorials.png
